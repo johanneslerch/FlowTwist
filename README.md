@@ -2,6 +2,19 @@ FlowTwist
 =========
 
 
+Dependencies
+------------------
+
+* [Soot](https://github.com/Sable/soot)
+* [Heros](https://github.com/Sable/heros)
+* [Functional Java](http://functionaljava.org/)
+* [Grappa](http://www2.research.att.com/~john/Grappa/)
+* [JUnit](http://junit.org/)
+* [Mockito](http://code.google.com/p/mockito/)
+* [Hamcrest](http://code.google.com/p/hamcrest/)
+
+
+
 
 Acknowledgments
 ------------------
